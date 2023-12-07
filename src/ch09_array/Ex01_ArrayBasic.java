@@ -9,7 +9,7 @@ public class Ex01_ArrayBasic {
         System.out.println("numbers1[0] = " + numbers1[0]);
         // 배열의 크기 확인
         System.out.println(numbers1.length);
-        System.out.println("numbers1[5] = " + numbers1[5]);
+//        System.out.println("numbers1[5] = " + numbers1[5]);
 
         // 크기가 3인 String 배열 strings1
         String[] strings1 = new String[3];
