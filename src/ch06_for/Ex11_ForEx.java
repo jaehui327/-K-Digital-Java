@@ -25,7 +25,6 @@ public class Ex11_ForEx {
             }
             System.out.println(); // 줄을 바꾸기 위한 용도
         }
-        System.out.println();
         for (int i = 1; i <= 5; i++) { // 줄수, 별을 출력할 횟수
             for (int j = 5; j >= i; j--) { // 별을 줄수만큼 출력
                 System.out.print("*");
